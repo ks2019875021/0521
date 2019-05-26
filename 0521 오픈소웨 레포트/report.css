@@ -1,0 +1,7 @@
+h3 {text-align: center; color: brown;}
+div > strong {color: blue;}
+#list {background: mistyrose;}
+ul li:hover {background: yellowgreen;}
+ul li:hover {color: yellow;}
+ul li{margin-bottom: 15px;}
+#float{float: right; border: 1px dotted black; width: 15em; padding: 0.25em; margin: 1em; margin-bottom: 30px;}
